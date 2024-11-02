@@ -1,0 +1,58 @@
+.but{
+    background-color: rgb(8, 8, 8);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 120px;
+    height: 60px;
+    border: 2px;
+    cursor: pointer;
+}
+
+.alinharImg{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.alinharBtn{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.alinharButtons{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.btn1:hover{
+    box-shadow: 0 0 15px rgb(197, 211, 4),
+    0 0 20px rgb(218, 221, 6),
+    0 0 30px rgb(222, 226, 5);
+}
+
+.nova-classe {
+    background-color: #72330e;
+    color: white;
+    scale: 1.02;
+}
+
+.nova-classe:hover{
+    box-shadow: 0 0 15px rgb(88, 6, 219),
+    0 0 20px rgb(121, 6, 230),
+    0 0 30px rgb(115, 8, 216);
+}
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
